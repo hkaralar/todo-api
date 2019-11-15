@@ -1,0 +1,7 @@
+pip install virtualenv
+virtualenv env
+
+sanal ortamı aktif etmek için
+.\env\Scripts\activate
+
+pip install dnspython flask-pymongo dnspython flask python-dotenv flask-cors
